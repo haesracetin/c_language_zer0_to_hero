@@ -3,8 +3,8 @@
 #include <stdio.h>
 
  int main(){
-	char name[10] = "Güller";
-	char surname[10] = "Kalyoncu";
+	char name[10] = "esra";
+	char surname[10] = "cetin";
 	int age = 20;
 	age *= 2;
 
